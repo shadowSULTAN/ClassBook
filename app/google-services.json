@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "372833782311",
+    "project_id": "akhilonfire",
+    "storage_bucket": "akhilonfire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372833782311:android:7d6f9674acbceea6a7dc02",
+        "android_client_info": {
+          "package_name": "akhil1.mpad.akhilonfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372833782311-de9ejr5aqbjl2k6s4uf32eqsi92kju6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK_04AiAPpii0yDkImMNVngrHoZ7UMW6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372833782311-de9ejr5aqbjl2k6s4uf32eqsi92kju6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
